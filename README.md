@@ -7,11 +7,10 @@
 ![LLM Specialist](https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### CSE Student | AI Systems Engineering Journey | Toward Production-Grade AI Architecture
+
 
 </div>
 
----
 
 <div align="center">
 <h2>About Me</h2>
@@ -28,7 +27,6 @@ Engineering machines that understand intent, not just instructions.
 
 </div>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/output/snake-dark.svg" />
