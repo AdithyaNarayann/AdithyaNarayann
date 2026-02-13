@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there — I’m Adithya Narayan V S
+# Hi there — I’m Adithya Narayan
 
 ![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-1E293B?style=for-the-badge&logo=databricks&logoColor=white)
 ![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems-000000?style=for-the-badge&logo=brain&logoColor=white)
