@@ -12,6 +12,10 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/output/snake-dark.svg" />
+</p>
+---
 
 <div align="center">
 <h2>About Me</h2>
