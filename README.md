@@ -19,10 +19,12 @@
 
 <div align="center">
 
- • Backend-first AI systems builder focused on decision-making and automation  
- • Designs agents, orchestration pipelines, and adaptive execution systems  
- • Builds software that plans, adjusts to behavior, and explains its actions  
- • Long-term goal: engineering machines that understand intent, not just instructions
+<i>
+Backend-first AI systems builder focused on decision-making and automation.<br>
+Designs agents, orchestration pipelines, and adaptive execution systems.<br>
+Builds software that plans, adjusts to behavior, and explains its actions.<br>
+Engineering machines that understand intent, not just instructions.
+</i>
 
 </div>
 
