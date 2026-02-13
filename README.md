@@ -2,10 +2,10 @@
 
 # Hi there — I’m Adithya Narayan V S
 
-![AI Systems Engineer](https://img.shields.io/badge/AI%20Systems%20Engineer-000000?style=for-the-badge&logo=ai&logoColor=white)
-![Backend Developer](https://img.shields.io/badge/Backend%20Architecture-1E293B?style=for-the-badge&logo=databricks&logoColor=white)
-![LLM Specialist](https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-1E293B?style=for-the-badge&logo=databricks&logoColor=white)
+![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems-000000?style=for-the-badge&logo=brain&logoColor=white)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge&logo=opencv&logoColor=white)
 
 
 
@@ -40,7 +40,6 @@ Engineering machines that understand intent, not just instructions.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ML & Intelligence
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -50,11 +49,6 @@ Engineering machines that understand intent, not just instructions.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
