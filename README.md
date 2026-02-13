@@ -13,7 +13,9 @@
 
 ---
 
-<h2 style="text-align: center;">About Me</h2>
+<div align="center">
+<h2>About Me</h2>
+</div>
 
 <div align="center">
 
@@ -109,7 +111,9 @@
 
 ---
 
-<h2 style="text-align: center;">Connect</h2>
+<div align="center">
+<h2>Connect</h2>
+</div>
 
 <div align="center">
 
@@ -122,4 +126,3 @@
 
 
 <div align="center">
-
