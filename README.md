@@ -32,8 +32,6 @@ Engineering machines that understand intent, not just instructions.
   <img src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/output/snake-dark.svg" />
 </p>
 
----
-
 
 <div align="center">
 
