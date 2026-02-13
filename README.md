@@ -12,9 +12,11 @@
 </div>
 
 ---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/output/snake.svg" />
 </p>
+
 ---
 
 <div align="center">
