@@ -1,0 +1,30 @@
+name: generate pacman graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs twice daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: generate pacman graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AdithyaNarayann
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: push to repo
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update pacman graph"
