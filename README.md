@@ -108,9 +108,11 @@ Working toward machines that understand intent, not just instructions.
 
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AdithyaNarayann&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="GitHub Streak Stats" />
-
+  <img 
+    src="https://streak-stats.demolab.com?user=AdithyaNarayann&theme=dark&cache_seconds=1" 
+    height="180" 
+    alt="GitHub Streak Stats" 
+  />
 </div>
 
 
