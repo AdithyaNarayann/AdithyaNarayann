@@ -34,39 +34,49 @@ Working toward machines that understand intent, not just instructions.
 
 <div align="center">
 
-<table>
+<table width="100%" style="table-layout: fixed;">
 <tr>
+
 <td align="center" width="25%" valign="top">
+<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Adaptive-3B82F6?style=for-the-badge" height="35"/>
-<br><br>
+<br>
 <b>Self-Learning Systems</b>
-<br><br>
+<br>
 <sub>Adapt to user behavior<br>Self-correct on failures</sub>
+</div>
 </td>
 
 <td align="center" width="25%" valign="top">
+<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Explainable-8B5CF6?style=for-the-badge" height="35"/>
-<br><br>
+<br>
 <b>Transparent Logic</b>
-<br><br>
+<br>
 <sub>Decisions are traceable<br>Reasoning is documented</sub>
+</div>
 </td>
 
 <td align="center" width="25%" valign="top">
+<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Optimized-EC4899?style=for-the-badge" height="35"/>
-<br><br>
+<br>
 <b>Execution Over Polish</b>
-<br><br>
+<br>
 <sub>Substance over surface<br>Backend intelligence first</sub>
+</div>
 </td>
 
 <td align="center" width="25%" valign="top">
+<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Resilient-10B981?style=for-the-badge" height="35"/>
-<br><br>
+<br>
 <b>Failure Handling</b>
-<br><br>
+<br>
 <sub>Robust to edge cases<br>Graceful degradation</sub>
+</div>
 </td>
+
 </tr>
 </table>
 
