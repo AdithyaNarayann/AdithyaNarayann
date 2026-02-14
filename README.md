@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there — I’m Adithya Narayan
+# 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲 — 𝗜’𝗺 𝗔𝗱𝗶𝘁𝗵𝘆𝗮 𝗡𝗮𝗿𝗮𝘆𝗮𝗻
 
 ![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-1E293B?style=for-the-badge&logo=databricks&logoColor=white)
 ![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems-000000?style=for-the-badge&logo=brain&logoColor=white)
@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<h2>About Me</h2>
+<h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h2>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@ Working toward machines that understand intent, not just instructions.
 </div>
 
 <div align="center" style="width: 100%;">
-<h2 style="text-align: center; width: 100%;">Engineering Philosophy</h2>
+<h2 style="text-align: center; width: 100%;">𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆</h2>
 </div>
 
 <div align="center">
@@ -74,30 +74,32 @@ Working toward machines that understand intent, not just instructions.
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph-dark.svg?nocache=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph.svg?nocache=1">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph.svg?nocache=1">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph-dark.svg?nocache=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph.svg?nocache=1">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph.svg?nocache=1">
+  </picture>
+</div>
 
 <div align="center">
 
-### Runtime & Backend
+### 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### ML & Intelligence
+### 𝗠𝗟 & 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Data & Experimentation
+### 𝗗𝗮𝘁𝗮 & 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Development
+### 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -113,7 +115,7 @@ Working toward machines that understand intent, not just instructions.
 
 
 <div align="center">
-<h2>Let's Connect</h2>
+<h2>𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁</h2>
 </div>
 
 <div align="center">
