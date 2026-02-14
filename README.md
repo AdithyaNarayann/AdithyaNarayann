@@ -27,54 +27,45 @@ Working toward machines that understand intent, not just instructions.
 
 </div>
 
-
 <div align="center" style="width: 100%;">
 <h2 style="text-align: center; width: 100%;">Engineering Philosophy</h2>
 </div>
 
 <div align="center">
 
-<table width="100%" style="table-layout: fixed;">
+<table>
 <tr>
 
 <td align="center" width="25%" valign="top">
-<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Adaptive-3B82F6?style=for-the-badge" height="35"/>
-<br>
-<b>Self-Learning Systems</b>
-<br>
-<sub>Adapt to user behavior<br>Self-correct on failures</sub>
-</div>
+<br><br>
+<b>Self-Learning<br>Systems</b>
+<br><br>
+<sub>Adapts to behavior<br>Recovers from failures</sub>
 </td>
 
 <td align="center" width="25%" valign="top">
-<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Explainable-8B5CF6?style=for-the-badge" height="35"/>
-<br>
-<b>Transparent Logic</b>
-<br>
-<sub>Decisions are traceable<br>Reasoning is documented</sub>
-</div>
+<br><br>
+<b>Transparent<br>Logic</b>
+<br><br>
+<sub>Traceable decisions<br>Documented reasoning</sub>
 </td>
 
 <td align="center" width="25%" valign="top">
-<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Optimized-EC4899?style=for-the-badge" height="35"/>
-<br>
-<b>Execution Over Polish</b>
-<br>
+<br><br>
+<b>Execution Over<br>Polish</b>
+<br><br>
 <sub>Substance over surface<br>Backend intelligence first</sub>
-</div>
 </td>
 
 <td align="center" width="25%" valign="top">
-<div style="height: 210px; display:flex; flex-direction:column; justify-content:flex-start; align-items:center;">
 <img src="https://img.shields.io/badge/Resilient-10B981?style=for-the-badge" height="35"/>
-<br>
-<b>Failure Handling</b>
-<br>
-<sub>Robust to edge cases<br>Graceful degradation</sub>
-</div>
+<br><br>
+<b>Failure<br>Handling</b>
+<br><br>
+<sub>Handles edge cases<br>Graceful degradation</sub>
 </td>
 
 </tr>
