@@ -57,13 +57,13 @@ Working toward machines that understand intent, not just instructions.
 <br><br>
 <b>Execution Over Polish</b>
 <br><br>
-<sub>Performance over polish<br>Backend intelligence prioritized</sub>
+<sub>Substance over surface<br>Backend intelligence first</sub>
 </td>
 
 <td align="center" width="25%" valign="top">
 <img src="https://img.shields.io/badge/Resilient-10B981?style=for-the-badge" height="35"/>
 <br><br>
-<b>Resilient Failure Handling</b>
+<b>Failure Handling</b>
 <br><br>
 <sub>Robust to edge cases<br>Graceful degradation</sub>
 </td>
