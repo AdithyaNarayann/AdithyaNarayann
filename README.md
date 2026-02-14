@@ -28,8 +28,6 @@ Working toward machines that understand intent, not just instructions.
 </div>
 
 
----
-
 <div align="center" style="width: 100%;">
 <h2 style="text-align: center; width: 100%;">Engineering Philosophy</h2>
 </div>
@@ -74,13 +72,10 @@ Working toward machines that understand intent, not just instructions.
 
 </div>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/output/snake-dark.svg" />
 </p>
-
----
 
 <div align="center">
 
