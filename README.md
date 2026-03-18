@@ -74,13 +74,6 @@ Working toward machines that understand intent, not just instructions.
 </div>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph-dark.svg?nocache=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph.svg?nocache=1">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdithyaNarayann/AdithyaNarayann/main/output/pacman-contribution-graph.svg?nocache=1">
-  </picture>
-</div>
 
 <div align="center">
 
@@ -105,15 +98,6 @@ Working toward machines that understand intent, not just instructions.
 
 </div>
 
-
-
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=AdithyaNarayann&theme=dark&cache_seconds=1" 
-    height="180" 
-    alt="GitHub Streak Stats" 
-  />
-</div>
 
 
 <div align="center">
