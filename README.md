@@ -1,115 +1,71 @@
 <div align="center">
 
-# 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲 — 𝗜’𝗺 𝗔𝗱𝗶𝘁𝗵𝘆𝗮 𝗡𝗮𝗿𝗮𝘆𝗮𝗻
+# Adithya Narayan V S
 
-![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-1E293B?style=for-the-badge&logo=databricks&logoColor=white)
-![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems-000000?style=for-the-badge&logo=brain&logoColor=white)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge&logo=opencv&logoColor=white)
+<sub>AI SYSTEMS &nbsp;·&nbsp; LLM PIPELINES &nbsp;·&nbsp; BACKEND DECISION LOGIC</sub>
 
-
-
-</div>
-
-
-<div align="center">
-<h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h2>
-</div>
-
-<div align="center">
-
-<i>
-Backend-first systems builder focused on decision-making and automation.<br>
-Building planning engines, structured pipelines, and adaptive execution logic.<br>
-Software that plans, adjusts to behavior, and explains its actions.<br>
-Working toward machines that understand intent, not just instructions.
-</i>
+![](https://img.shields.io/badge/1st%20Place-Smart%20Tech%20for%20Industry%205.0%20%C2%B7%20%E2%82%B925%2C000-334155?style=for-the-badge)
+&nbsp;
+![](https://img.shields.io/badge/Selected-IEDC%20Startup%20Summit%202026%20%C2%B7%20State%20Level-334155?style=for-the-badge)
 
 </div>
 
-<div align="center" style="width: 100%;">
-<h2 style="text-align: center; width: 100%;">𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆</h2>
-</div>
+---
 
-<div align="center">
+I build AI systems that make decisions, not just generate text — structured LLM pipelines, multi-agent orchestration, and backend decision logic where state persists, failures are handled, and outputs are deterministic.
+
+## Engineering
 
 <table>
-<tr>
+<tr><td>
 
-<td align="center" width="25%" valign="top">
-<img src="https://img.shields.io/badge/Adaptive-3B82F6?style=for-the-badge" height="35"/>
-<br><br>
-<b>Self-Learning<br>Systems</b>
-<br><br>
-<sub>Adapts to behavior<br>Recovers from failures</sub>
-</td>
+**[Prompta](https://github.com/AdithyaNarayann/prompta)** &nbsp;—&nbsp; LLM Prompt Diagnostics Engine
 
-<td align="center" width="25%" valign="top">
-<img src="https://img.shields.io/badge/Explainable-8B5CF6?style=for-the-badge" height="35"/>
-<br><br>
-<b>Transparent<br>Logic</b>
-<br><br>
-<sub>Traceable decisions<br>Documented reasoning</sub>
-</td>
+Multi-label DeBERTa classifier detecting five failure modes — Instruction Conflict, Format Pressure, Context Starvation, Scope Ambiguity, Role Collapse — with per-mode thresholds and threshold-gated routing to expensive LLM reasoning. Intent extraction decouples user goal from prompt text before classification. Targeted, traceable rewrites per failure mode. Treats prompts as systems with failure modes, not strings to rephrase.
 
-<td align="center" width="25%" valign="top">
-<img src="https://img.shields.io/badge/Optimized-EC4899?style=for-the-badge" height="35"/>
-<br><br>
-<b>Execution Over<br>Polish</b>
-<br><br>
-<sub>Substance over surface<br>Backend intelligence first</sub>
-</td>
+`DeBERTa` `FastAPI` `Sentence-Transformers` `OpenRouter` `React` `AsyncIO`
 
-<td align="center" width="25%" valign="top">
-<img src="https://img.shields.io/badge/Resilient-10B981?style=for-the-badge" height="35"/>
-<br><br>
-<b>Failure<br>Handling</b>
-<br><br>
-<sub>Handles edge cases<br>Graceful degradation</sub>
-</td>
+</td></tr>
 
-</tr>
+<tr><td>
+
+**[TradeMind](#)** &nbsp;—&nbsp; Negotiation Intelligence API
+
+Replaces black-box LLM negotiation with fully deterministic pricing logic. Bayesian WTP estimation with real-time posterior updates. Phase-gated concession curves across opening, active, and closing phases. Session-aware buyer archetype memory that persists across the full negotiation lifecycle. LLM stays entirely out of the pricing path — structured JSON outputs, zero hallucination.
+
+`FastAPI` `PostgreSQL` `Bayesian Engine` `OpenRouter` `React`
+
+</td></tr>
+<tr><td>
+
+**[Spot Difference](https://github.com/AdithyaNarayann)** &nbsp;—&nbsp; Visual Change Detection Pipeline
+
+SAM v1 (ViT-H, 4B params) for automatic instance segmentation — no manual annotations. Multi-signal similarity fusion: OpenCLIP 512-dim embeddings, IoU, shape descriptors, and color histograms via a weighted score matrix. Hungarian algorithm for globally optimal object-pair assignment — not greedy. Confidence-stratified JSON reports, pipeline-integration ready.
+
+`SAM` `OpenCLIP` `PyTorch` `OpenCV` `Hungarian Algorithm`
+
+</td></tr>
+<tr><td>
+
+**[Pragati](https://github.com/AdithyaNarayann)** &nbsp;—&nbsp; AI DPR Analysis Platform &nbsp;·&nbsp; *3rd Place, SIH Internal*
+
+Full pipeline: OCR → PDF parse → TF-IDF extraction → XGBoost classifier with confidence scoring. 91% accuracy on feasibility classification. Governance compliance dashboard with real-time scoring and structured report output.
+
+`XGBoost` `pytesseract` `scikit-learn` `Flask` `React`
+
+</td></tr>
 </table>
 
-</div>
+## Built With
 
+```yaml
+stack:
+  backend:  [Python, FastAPI, PostgreSQL, Redis, AsyncIO, httpx]
+  ai_ml:    [PyTorch, DeBERTa, Sentence-Transformers, SAM, OpenCLIP, scikit-learn]
+  cv:       [OpenCV, SAM, OpenCLIP]
+  frontend: [React]
+```
 
+## Reach Me
 
-<div align="center">
-
-### 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-### 𝗠𝗟 & 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 𝗗𝗮𝘁𝗮 & 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-
-
-<div align="center">
-<h2>𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁</h2>
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-narayan-v-s-541a78271/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/narayawnn/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyanarayankannan@gmail.com)
-</div>
-
-
-<div align="center">
+[adithyanarayanvs@gmail.com](mailto:adithyanarayanvs@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/adithyanarayanvs) &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=AdithyaNarayann&color=6e7681&style=flat-square&label=views" align="center" />
