@@ -36,7 +36,7 @@ Replaces black-box LLM negotiation with fully deterministic pricing logic. Bayes
 </td></tr>
 <tr><td>
 
-**[Spot Difference](https://github.com/AdithyaNarayann)** &nbsp;—&nbsp; Visual Change Detection Pipeline
+**[Spot Difference](https://github.com/AdithyaNarayann/Spot-Difference)** &nbsp;—&nbsp; Visual Change Detection Pipeline
 
 SAM v1 (ViT-H, 4B params) for automatic instance segmentation — no manual annotations. Multi-signal similarity fusion: OpenCLIP 512-dim embeddings, IoU, shape descriptors, and color histograms via a weighted score matrix. Hungarian algorithm for globally optimal object-pair assignment — not greedy. Confidence-stratified JSON reports, pipeline-integration ready.
 
@@ -45,7 +45,7 @@ SAM v1 (ViT-H, 4B params) for automatic instance segmentation — no manual anno
 </td></tr>
 <tr><td>
 
-**[Pragati](https://github.com/AdithyaNarayann)** &nbsp;—&nbsp; AI DPR Analysis Platform &nbsp;·&nbsp; *3rd Place, SIH Internal*
+**[Pragati](https://github.com/AdithyaNarayann/pragati)** &nbsp;—&nbsp; AI DPR Analysis Platform &nbsp;·&nbsp; *3rd Place, SIH Internal*
 
 Full pipeline: OCR → PDF parse → TF-IDF extraction → XGBoost classifier with confidence scoring. 91% accuracy on feasibility classification. Governance compliance dashboard with real-time scoring and structured report output.
 
