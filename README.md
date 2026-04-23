@@ -59,9 +59,8 @@ Full pipeline: OCR → PDF parse → TF-IDF extraction → XGBoost classifier wi
 ```yaml
 stack:
   backend:  [Python, FastAPI, PostgreSQL, Redis, AsyncIO, httpx]
-  ai_ml:    [PyTorch, DeBERTa, Sentence-Transformers, SAM, OpenCLIP, scikit-learn]
+  ai_ml:    [PyTorch, DeBERTa, Sentence-Transformers, scikit-learn]
   cv:       [OpenCV, SAM, OpenCLIP]
-  frontend: [React]
 ```
 
 ## Reach Me
