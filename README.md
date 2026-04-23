@@ -66,4 +66,4 @@ stack:
 
 ## Reach Me
 
-[adithyanarayanvs@gmail.com](mailto:adithyanarayanvs@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/adithyanarayanvs) &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=AdithyaNarayann&color=6e7681&style=flat-square&label=views" align="center" />
+[adithyanarayanvs@gmail.com](mailto:adithyanarayanvs@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/adithyanarayanvs) &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=AdithyaNarayann&color=6e7681&style=flat-square&label=views" align="right" />
