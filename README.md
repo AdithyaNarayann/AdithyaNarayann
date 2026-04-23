@@ -17,7 +17,7 @@ I build AI systems that make decisions, not just generate text — structured LL
 <table>
 <tr><td>
 
-**[Prompta](https://github.com/AdithyaNarayann/prompta)** &nbsp;—&nbsp; LLM Prompt Diagnostics Engine
+**[Prompta](https://github.com/AdithyaNarayann/prompta-public)** &nbsp;—&nbsp; LLM Prompt Diagnostics Engine
 
 Multi-label DeBERTa classifier detecting five failure modes — Instruction Conflict, Format Pressure, Context Starvation, Scope Ambiguity, Role Collapse — with per-mode thresholds and threshold-gated routing to expensive LLM reasoning. Intent extraction decouples user goal from prompt text before classification. Targeted, traceable rewrites per failure mode. Treats prompts as systems with failure modes, not strings to rephrase.
 
