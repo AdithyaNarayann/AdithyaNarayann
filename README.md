@@ -1,6 +1,6 @@
 <div align="center">
 
-# Adithya Narayan V S
+## Adithya Narayan V S
 
 ### ᴀɪ sʏsᴛᴇᴍs · ʟʟᴍ ᴘɪᴘᴇʟɪɴᴇs · ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴄɪsɪᴏɴ ʟᴏɢɪᴄ
 
