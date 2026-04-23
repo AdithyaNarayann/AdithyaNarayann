@@ -1,5 +1,4 @@
 <div align="center">
-
 ## ᴀɪ sʏsᴛᴇᴍs · ʟʟᴍ ᴘɪᴘᴇʟɪɴᴇs · ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴄɪsɪᴏɴ ʟᴏɢɪᴄ
 
 ![](https://img.shields.io/badge/1st%20Place-Smart%20Tech%20for%20Industry%205.0%20%C2%B7%20%E2%82%B925%2C000-334155?style=for-the-badge)
