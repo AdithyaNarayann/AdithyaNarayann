@@ -58,7 +58,7 @@ Full pipeline: OCR → PDF parse → TF-IDF extraction → XGBoost classifier wi
 
 ```yaml
 stack:
-  backend:  [Python, FastAPI, PostgreSQL, Sql alchemy, Pydantic, Redis, AsyncIO, httpx]
+  backend:  [Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Redis, AsyncIO, httpx]
   ai_ml:    [PyTorch, Hugging Face Transformers, scikit-learn]
   cv:       [OpenCV, Tesseract OCR, SAM, OpenCLIP]
 ```
