@@ -2,9 +2,8 @@
 
 ## ᴀɪ sʏsᴛᴇᴍs · ʟʟᴍ ᴘɪᴘᴇʟɪɴᴇs · ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴄɪsɪᴏɴ ʟᴏɢɪᴄ
 
-![](https://img.shields.io/badge/1st%20Place-Smart%20Tech%20for%20Industry%205.0%20%C2%B7%20%E2%82%B925%2C000-334155?style=for-the-badge)
-&nbsp;
-![](https://img.shields.io/badge/Selected-IEDC%20Startup%20Summit%202026%20%C2%B7%20State%20Level-334155?style=for-the-badge)
+![](https://img.shields.io/badge/1st%20Place-State%20Level%20%C2%B7%20Smart%20Tech%20for%20Industry%205.0%20%C2%B7%20%E2%82%B925%2C000-334155?style=for-the-badge)
+![](https://img.shields.io/badge/Selected-State%20Level%20%C2%B7%20IEDC%20Startup%20Summit%202026-334155?style=for-the-badge)
 
 </div>
 
