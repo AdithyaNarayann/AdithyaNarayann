@@ -11,7 +11,7 @@
 
 ---
 
-I build AI systems that make decisions, not just generate text — structured LLM pipelines, multi-agent orchestration, and backend decision logic where state persists, failures are handled, and outputs are deterministic.
+Obsessed with uncovering what happens inside an LLM as it turns one thought into the next.
 
 ## Engineering
 
