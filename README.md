@@ -55,7 +55,7 @@ Full pipeline: OCR → PDF parse → TF-IDF extraction → XGBoost classifier wi
 </td></tr>
 </table>
 
-## Built Wit
+## Built With
 
 ```yaml
 stack:
