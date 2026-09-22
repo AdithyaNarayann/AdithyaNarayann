@@ -5,13 +5,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/1st%20Place-State%20Level%20%C2%B7%20Industry%205.0%20Hackathon%20%C2%B7%20%E2%82%B925K-334155?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Winner-State%20Level%20%C2%B7%20IEDC%20Startup%20Summit%20'26-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commendable%20Performance-SCT%20Startathon%20'26%20%C2%B7%20%E2%82%B910K-334155?style=for-the-badge"/>
 </p>
-
 </div>
 
----
-
-Obsessed with uncovering what happens inside an LLM as it turns one thought into the next.
+<p align="center">
+  <i>Obsessed with uncovering what happens inside an LLM as it turns one thought into the next.</i>
+</p>
 
 ## Engineering
 
