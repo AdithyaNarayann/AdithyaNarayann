@@ -29,9 +29,6 @@ Multi-label DeBERTa classifier detecting five failure modes — Instruction Conf
 
 <tr><td>
 
-
-<tr><td>
-
 **[Settings Assistant](https://github.com/AdithyaNarayann/Settings-Assistant)** &nbsp;—&nbsp; Intent-Driven Android Settings Navigation
 
 Conversational navigation layer for Android Settings. Users describe what they want in Malayalam, Manglish, or English instead of knowing technical setting names or menu paths. Resolves natural-language intent to the relevant control, navigates through the Settings hierarchy, and asks for clarification when the intent is ambiguous.
