@@ -17,6 +17,16 @@
 ## Engineering
 
 <table>
+
+**[Peitho](https://github.com/AdithyaNarayann/Peitho)** &nbsp;—&nbsp; Negotiation Intelligence API
+
+Replaces black-box LLM negotiation with fully deterministic pricing logic. Bayesian WTP estimation with real-time posterior updates. Phase-gated concession curves across opening, active, and closing phases. Session-aware buyer archetype memory that persists across the full negotiation lifecycle. LLM stays entirely out of the pricing path — structured JSON outputs, zero hallucination.
+
+`FastAPI` `PostgreSQL` `Bayesian Engine` `OpenRouter` `React`
+
+</td></tr>
+
+
 <tr><td>
 
 **[Prompta](https://github.com/AdithyaNarayann/prompta-public)** &nbsp;—&nbsp; LLM Prompt Diagnostics Engine
