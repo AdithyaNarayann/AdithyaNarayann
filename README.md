@@ -29,6 +29,16 @@ Replaces black-box LLM negotiation with fully deterministic pricing logic. Bayes
 
 <tr><td>
 
+**[ORCA](https://github.com/AdithyaNarayann/orca)** &nbsp;—&nbsp; Agentic AI Marine Decision-Support Platform
+
+Multi-agent reasoning system for marine ecosystem intelligence. Integrates Indian oceanographic and weather data sources to generate actionable insights for fishermen, researchers, and coastal authorities. Combines environmental data analysis, collaborative agent workflows, and natural-language interaction to support informed marine decision-making.
+
+`Python` `FastAPI` `Agentic AI` `LLMs` `Multi-Agent Systems` `Marine Data APIs`
+
+</td></tr>
+
+<tr><td>
+
 **[Prompta](https://github.com/AdithyaNarayann/prompta-public)** &nbsp;—&nbsp; LLM Prompt Diagnostics Engine
 
 Multi-label DeBERTa classifier detecting five failure modes — Instruction Conflict, Format Pressure, Context Starvation, Scope Ambiguity, Role Collapse — with per-mode thresholds and threshold-gated routing to expensive LLM reasoning. Intent extraction decouples user goal from prompt text before classification. Targeted, traceable rewrites per failure mode. Treats prompts as systems with failure modes, not strings to rephrase.
@@ -72,7 +82,7 @@ Full pipeline: OCR → PDF parse → TF-IDF extraction → XGBoost classifier wi
 
 ```yaml
 stack:
-  backend:  [Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Redis, AsyncIO, httpx]
+  backend:  [Python, FastAPI, MySQL, PostgreSQL, SQLAlchemy, Pydantic, Redis, AsyncIO, httpx]
   ai_ml:    [PyTorch, Hugging Face Transformers, scikit-learn]
   cv:       [OpenCV, Tesseract OCR, SAM, OpenCLIP]
 ```
