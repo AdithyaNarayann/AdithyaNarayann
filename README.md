@@ -17,6 +17,17 @@
 ## Engineering
 
 <table>
+
+<tr><td>
+
+**[WatchItLearn](https://github.com/AdithyaNarayann/watchitlearn)** &nbsp;—&nbsp; Real-Time Reinforcement Learning Visualizer
+
+A from-scratch Tabular Q-Learning system that makes an AI agent's learning process observable in real time. Implements an MDP grid-world environment with precomputed integer transition tables and NumPy-optimized training. Streams live agent movements, Q-value heatmaps, exploration decay, and Bellman updates over an asynchronous WebSocket engine. Uses Breadth-First Search (BFS) as a mathematical optimality baseline, with verified convergence to the shortest path across 20 randomized seeds. Achieves 2,185+ training attempts/sec without heavyweight RL frameworks.
+
+`Python` `NumPy` `FastAPI` `WebSockets` `React 18` `TypeScript` `Tailwind CSS` `Q-Learning` `BFS`
+
+</td></tr>
+  
 <tr><td>
   
 **[Peitho](https://github.com/AdithyaNarayann/Peitho)** &nbsp;—&nbsp; Negotiation Intelligence API
