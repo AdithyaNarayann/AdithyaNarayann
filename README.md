@@ -1,6 +1,6 @@
 <div align="center">
 
-## ᴀɪ sʏsᴛᴇᴍs · ʟʟᴍ ᴘɪᴘᴇʟɪɴᴇs · ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴄɪsɪᴏɴ ʟᴏɢɪᴄ
+## The Mechanics of Thought
 
 <p align="center">
   <img src="https://img.shields.io/badge/1st%20Place-State%20Level%20%C2%B7%20Industry%205.0%20Hackathon%20%C2%B7%20%E2%82%B925K-334155?style=for-the-badge"/>
